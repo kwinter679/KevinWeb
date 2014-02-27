@@ -18,10 +18,10 @@
 			<!-- Menu starts here -->
 			<tiles:insertAttribute name="menu" />
 			</td>
-		<td>
-			<!-- BODY HERE -->				
-			<tiles:insertAttribute name="body" />
-		</td>
+			<td>
+				<!-- BODY HERE -->				
+				<tiles:insertAttribute name="body" />
+			</td>
 		</tr>
 		<tr>
 			<td>

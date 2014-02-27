@@ -19,7 +19,8 @@
   </property>
  </bean>
  
- 	<!-- Welcome Service <bean id="welcomeService" class="net.kevin.service.impl.WelcomeServiceImpl" /> -->
+ 	<!-- Welcome Service -->
+ 	<bean id="welcomeService" class="net.kevin.service.impl.WelcomeServiceImpl" /> 
  
  	<!-- Define tiles -->
 	<bean id="tilesConfigurer"

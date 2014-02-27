@@ -1,5 +1,7 @@
 package net.kevin.controller;
 
+import net.service.beans.WelcomeBean;
+
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
@@ -17,7 +19,9 @@ public class WelcomeController {
     public ModelAndView printWelcome(ModelMap model) {
     	logger.debug("Received request to show welcome page.");
     	
-        return new ModelAndView("welcome", "welcome", "welcome");
+    	WelcomeBean welcomeBean = new WelcomeBean();
+    	
+        return new ModelAndView("welcome", "welcome", welcomeBean);
     }
 }
 
