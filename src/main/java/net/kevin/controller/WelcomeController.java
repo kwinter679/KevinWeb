@@ -24,4 +24,3 @@ public class WelcomeController {
         return new ModelAndView("welcome", "welcome", welcomeBean);
     }
 }
-
