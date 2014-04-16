@@ -1,4 +1,3 @@
-
-<table>
- <tr><td>Made by Kevin :)</td></tr>
-</table>
+<div align="center">
+Made by Kevin :)
+</div>

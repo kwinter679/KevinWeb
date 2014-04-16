@@ -1,6 +1,3 @@
-	<table>
-		<tr><td style="background:yellow">
-			Click me
-		</td></tr>
-	</table>
-
+<div align="left">
+	CLICK ME!!
+</div>

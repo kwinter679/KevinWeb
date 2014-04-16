@@ -1,8 +1,5 @@
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
-<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
-<%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"> 
+</script>
 <script>
 $(document).ready(function(){
 	  $("#hide").click(function(){
@@ -22,7 +19,6 @@ $(document).ready(function(){
 	});
 </script>
 
-<form:form>
 <table>
 <tr>
 
@@ -37,4 +33,3 @@ $(document).ready(function(){
 <tr><td id="hiderow">This is the body</td></tr>
 <tr><td>Don't hide me!</td></tr>
 </table>
-</form:form>

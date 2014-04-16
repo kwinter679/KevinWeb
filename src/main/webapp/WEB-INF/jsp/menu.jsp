@@ -1,3 +1,3 @@
-<div align="left" style="background:yellow">
+<div align="left">
 	CLICK ME!!
 </div>
