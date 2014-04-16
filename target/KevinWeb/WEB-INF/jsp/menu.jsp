@@ -1,3 +1,6 @@
-<div align="left" style="background:yellow">
-	CLICK ME!!
-</div>
+	<table>
+		<tr><td style="background:yellow">
+			Click me
+		</td></tr>
+	</table>
+
