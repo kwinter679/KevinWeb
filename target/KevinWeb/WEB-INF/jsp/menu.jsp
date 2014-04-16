@@ -1,5 +1,3 @@
-<div align="left">
+<div align="left" style="background:yellow">
 	CLICK ME!!
-	
-	THIS IS THE MENU
 </div>

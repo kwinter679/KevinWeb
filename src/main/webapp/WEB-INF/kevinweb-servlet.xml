@@ -38,5 +38,9 @@
 			value="org.springframework.web.servlet.view.tiles2.TilesView" />
 		<property name="order" value="1"></property>
 	</bean>
+	
+	<mvc:resources mapping="webapp/**" location="/webapp/" />
+	 
+	<mvc:annotation-driven />
  
 </beans>

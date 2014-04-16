@@ -14,7 +14,7 @@
 	</definition>	
 	
 	<definition name="welcome" extends="baseLayout">
-		<put-attribute name="body" value="/javascript/deanm-pre3d-5453b65/demos/colorscube.jsp" />
+		<put-attribute name="body" value="/WEB-INF/jsp/welcome_body.jsp" />
 	</definition>
 	
 </tiles-definitions>

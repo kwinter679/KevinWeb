@@ -2,6 +2,10 @@
 
 <html>
 	<head>
+	
+		<!-- <link rel="stylesheet" type="text/css" href="./../css/cpm.css" > -->
+		<script src="./../javascript/pre3d_path_utils.js" type="text/javascript"></script>	 
+	
 		<title><tiles:insertAttribute name="title" ignore="true" /></title>	
 	</head>
 <body>

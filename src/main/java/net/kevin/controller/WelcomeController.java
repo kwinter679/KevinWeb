@@ -1,6 +1,6 @@
 package net.kevin.controller;
 
-import net.service.beans.WelcomeBean;
+import net.kevin.service.beans.WelcomeBean;
 
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Controller;
