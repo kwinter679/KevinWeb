@@ -1,5 +1,1 @@
-<div align="center">
-	Thanks for visiting my page!
-	
-	THIS IS THE BODY
-</div>
+<div>This is the body</div>
