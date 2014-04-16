@@ -1,5 +1,7 @@
 package net.kevin.service.impl;
 
-public class WelcomeServiceImpl {
+import net.kevin.service.WelcomeService;
+
+public class WelcomeServiceImpl implements WelcomeService{
 
 }

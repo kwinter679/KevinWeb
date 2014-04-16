@@ -17,4 +17,8 @@
 		<put-attribute name="body" value="/WEB-INF/jsp/welcome_body.jsp" />
 	</definition>
 	
+	<definition name="blankets" extends="baseLayout">
+		<put-attribute name="body" value="/WEB-INF/jsp/blankets_body.jsp" />
+	</definition>
+	
 </tiles-definitions>
